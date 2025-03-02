@@ -29,3 +29,22 @@ The objective of this project is to develop an interactive Ecommerce Sales Dashb
 • What are the top-selling and least-selling products?
 
 • What is the stock turnover rate for different categories?
+
+• Dashboard Interaction 
+
+# Process 
+
+• Gather sales data from various sources (CSV, database, Excel).
+
+• Include customer transactions, product details, revenue, and order history.
+
+• Handle missing values, duplicate records, and inconsistent formats.
+
+• Standardize date formats and ensure accuracy in numerical fields.
+
+• Calculate key KPIs like sales trends, profit margins, customer retention, and order volume.
+
+# Dashboard 
+
+
+

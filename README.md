@@ -1,5 +1,7 @@
-# E-Commerces-Sales-Data Analysis (Interactive Dashboard creation using Tableau)
-📊 A data visualization project to analyze and track ecommerce sales performance using Tableau.
+Tableau Projects 📊
+This repository contains Tableau dashboard, visualization, and data analysis projects I have created.
+
+ 
 
 # Project Objective
 
